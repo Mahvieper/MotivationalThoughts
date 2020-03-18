@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "59459777453",
+    "firebase_url": "https://motivational-thoughts-1e272.firebaseio.com",
+    "project_id": "motivational-thoughts-1e272",
+    "storage_bucket": "motivational-thoughts-1e272.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59459777453:android:78753cec5c0b0164a6a724",
+        "android_client_info": {
+          "package_name": "com.courtney.motivational_thoughts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59459777453-t60k3aeoo6cbkts1ei18ekd9ppjqbc6g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU7b0Gdwick9F5XCbeZUu-iPZk0TdECjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "59459777453-t60k3aeoo6cbkts1ei18ekd9ppjqbc6g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
