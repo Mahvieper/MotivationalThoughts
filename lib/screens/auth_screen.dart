@@ -1,7 +1,11 @@
 import 'package:flutter/material.dart';
-import 'package:firebase_auth/firebase_auth.dart';
+import 'package:motivational_thoughts/auth/authentication.dart';
 
 class LoginPage extends StatefulWidget {
+  LoginPage({this.auth, this.loginCallback});
+
+  final BaseAuth auth;
+  final VoidCallback loginCallback;
   @override
   _LoginPageState createState() => _LoginPageState();
 }
