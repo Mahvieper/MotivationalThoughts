@@ -211,13 +211,16 @@ Widget showSecondaryButton() {
   Widget build(BuildContext context) {
     return new Scaffold(
       appBar: new AppBar(
-        title: new Text('HomeScreen'),
+        title: new Text('Login/Signup'),
       ),
-      body: Stack(
-        children: <Widget>[
-          _showForm(),
-          _showCircularProgress(),
-        ],
+        body: Container(
+        padding: EdgeInsets.all(20),
+        child: Stack(
+          children: <Widget>[
+            _showForm(),
+            _showCircularProgress(),
+          ],
+        ),
       ));
 
   }

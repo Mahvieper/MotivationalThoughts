@@ -1,3 +1,4 @@
+
 import 'package:flutter/material.dart';
 import 'package:motivational_thoughts/auth/authentication.dart';
 
@@ -13,11 +14,11 @@ class HomePageUser extends StatefulWidget {
 }
 
 class _HomePageUserState extends State<HomePageUser> {
-  Future getPosts() async {
+ /* Future getPosts() async {
     var firestore = Firestore.instance;
     QuerySnapshot snapshot = await firestore.collection("itemOne").getDocuments();
     return snapshot.documents;
-  }
+  }*/
 
   @override
   Widget build(BuildContext context) {

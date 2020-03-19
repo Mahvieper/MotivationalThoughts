@@ -8,6 +8,10 @@ void main() => runApp(new MaterialApp(home:MyApp(),
     '/LoginPage': (BuildContext context) => new LoginPage()
   },
   debugShowCheckedModeBanner: false,
+  theme: ThemeData(
+    primarySwatch: Colors.teal,
+     backgroundColor: Colors.teal
+  ),
 ));
 
 class MyApp extends StatelessWidget {
