@@ -1,0 +1,21 @@
+dependencies: \
+  /Users/maheshsharma/Desktop/Motivational/ios/Runner/GeneratedPluginRegistrant.m \
+  /Users/maheshsharma/Desktop/Motivational/ios/Runner/GeneratedPluginRegistrant.h \
+  /Users/maheshsharma/Desktop/Motivational/ios/Flutter/Flutter.framework/Modules/module.modulemap \
+  /Users/maheshsharma/Downloads/FoodOrderApp-master/ios/Pods/Firebase/CoreOnly/Sources/module.modulemap \
+  /Users/maheshsharma/Desktop/Motivational/ios/Flutter/Flutter.framework/Headers/FlutterTexture.h \
+  /Users/maheshsharma/Desktop/Motivational/ios/Flutter/Flutter.framework/Headers/FlutterPlugin.h \
+  /Users/maheshsharma/Desktop/Motivational/ios/Flutter/Flutter.framework/Headers/FlutterEngine.h \
+  /Users/maheshsharma/Desktop/Motivational/ios/Flutter/Flutter.framework/Headers/FlutterDartProject.h \
+  /Users/maheshsharma/Desktop/Motivational/ios/Flutter/Flutter.framework/Headers/FlutterBinaryMessenger.h \
+  /Users/maheshsharma/Desktop/Motivational/ios/Flutter/Flutter.framework/Headers/FlutterViewController.h \
+  /Users/maheshsharma/Desktop/Motivational/ios/Flutter/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h \
+  /Users/maheshsharma/Desktop/Motivational/ios/Flutter/Flutter.framework/Headers/FlutterPlatformViews.h \
+  /Users/maheshsharma/Desktop/Motivational/ios/Flutter/Flutter.framework/Headers/FlutterHeadlessDartRunner.h \
+  /Users/maheshsharma/Desktop/Motivational/ios/Flutter/Flutter.framework/Headers/FlutterChannels.h \
+  /Users/maheshsharma/Desktop/Motivational/ios/Flutter/Flutter.framework/Headers/FlutterCallbackCache.h \
+  /Users/maheshsharma/Desktop/Motivational/ios/Flutter/Flutter.framework/Headers/FlutterCodecs.h \
+  /Users/maheshsharma/Desktop/Motivational/ios/Flutter/Flutter.framework/Headers/FlutterMacros.h \
+  /Users/maheshsharma/Desktop/Motivational/ios/Pods/Firebase/CoreOnly/Sources/module.modulemap \
+  /Users/maheshsharma/Desktop/Motivational/ios/Flutter/Flutter.framework/Headers/FlutterAppDelegate.h \
+  /Users/maheshsharma/Desktop/Motivational/ios/Flutter/Flutter.framework/Headers/Flutter.h
